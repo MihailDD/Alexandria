@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "a5b5fbd09815cd43",
+    "type": "split",
+    "children": [
+      {
+        "id": "727cfed856f5e9ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4446a172ad538781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/3. Game Theory/3.2 One-Shot Interaction/3.2d Nash Equilibrium.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "363793eac674b5b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f17628bf666862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6aa7db42e004c29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27823d3f9b19c971",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba2a3549efc5dd72",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "5044e110a64f86a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed325b7c1122bd0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4398410083dea4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mathematics/3. Game Theory/3.2 One-Shot Interaction/3.2d Nash Equilibrium.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e272db8ef780671a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c075be1707f4549",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mathematics/3. Game Theory/3.2 One-Shot Interaction/3.2d Nash Equilibrium.md"
+              }
+            }
+          },
+          {
+            "id": "c59d040c78a6f968",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "133d6da5bf95f4a0",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "4446a172ad538781",
+  "lastOpenFiles": [
+    "Mathematics/1. Probability/4. Probability Distributions/4.6 Poisson Distribution/4.6b Sum of Independent Poisson Variables.md",
+    "Mathematics/1. Probability/4. Probability Distributions/4.6 Poisson Distribution/4.6a Poisson Distribution.md",
+    "Mathematics/1. Probability/4. Probability Distributions/4.7 Exponential Distribution.md",
+    "Mathematics/1. Probability/4. Probability Distributions/4.8 Normal Distribution.md",
+    "Mathematics/1. Probability/4. Probability Distributions/4.1 Distribution.md",
+    "Mathematics/1. Probability/5. Prediction/5.3 Linear Regression.md",
+    "Mathematics/1. Probability/5. Prediction/5.2 Total Expectation.md",
+    "Mathematics/1. Probability/5. Prediction/5.1 MSE.md",
+    "Mathematics/1. Probability/6. Concentration Inequalities/6.2 Chebyshev's Inequality.md",
+    "Mathematics/1. Probability/6. Concentration Inequalities/6.3 Law of Large Numbers.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.5 Special Graphs/3.5d Hypercubes.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.5 Special Graphs/3.5c Cycle Graphs.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.5 Special Graphs/3.5b Trees.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.5 Special Graphs/3.5a Complete Graphs.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.4 Planarity/3.4c Coloring.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.4 Planarity/3.4b Duality.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.4 Planarity/3.4a Planarity.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.2 Walks/3.2d Path.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.2 Walks/3.2e Cycle.md",
+    "Mathematics/6. Discrete Mathematics/3. Graph Theory/3.1 Graph.md",
+    "Mathematics/6. Discrete Mathematics/2. Proofs/2.1 Direct Proof.md",
+    "Mathematics/6. Discrete Mathematics/2. Proofs/2.2 Proof by Contraposition.md",
+    "Mathematics/6. Discrete Mathematics/2. Proofs/2.3 Proof by Contradiction.md",
+    "Mathematics/6. Discrete Mathematics/2. Proofs/2.4 Proof by Cases.md",
+    "Mathematics/6. Discrete Mathematics/2. Proofs/2.5 Proof by Induction/2.5a Simple Induction.md",
+    "Mathematics/6. Discrete Mathematics/2. Proofs/2.5 Proof by Induction/2.5b Strong Induction.md",
+    "CS 61C",
+    "Mathematics/3. Game Theory/3.3 Dynamic Interaction",
+    "Mathematics/3. Game Theory/3.2 One-Shot Interaction",
+    "Mathematics/3. Game Theory/3.2 Game Representations",
+    "Mathematics/3. Game Theory/3.1 Laws of Game Theory",
+    "Mathematics/3. Game Theory",
+    "CS 70/1. Logic/1.1 Propositional Forms",
+    "Mathematics/6. Discrete Mathematics/1. Logic",
+    "Mathematics/6. Discrete Mathematics/2. Proofs/2.5 Proof by Induction",
+    "Mathematics/6. Discrete Mathematics/2. Proofs",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "vLLM Documentation.canvas",
+    "attachments/Continuous-Time Internal Stability.png",
+    "attachments/Internal Discrete-Time Stability.png",
+    "Internal Discrete-Time Stability.png",
+    "Internal Discrete-Time Stability 1.png",
+    "STAT 20/Pasted image 20231120074516.png",
+    "STAT 20/Screenshot 2023-11-20 at 7.35.35.png"
+  ]
+}
