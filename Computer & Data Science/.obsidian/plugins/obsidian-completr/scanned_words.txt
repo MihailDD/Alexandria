@@ -205,6 +205,7 @@ HARD
 Hex
 Hexadecimal
 Hardware
+Hunt
 description
 data
 deaths
@@ -458,6 +459,9 @@ dominoes
 drawing
 digit
 duplicate
+debug
+debugging
+dilemma
 of
 or
 other
@@ -836,6 +840,7 @@ thereby
 textbook
 threaten
 things
+termination
 chance
 case
 can
@@ -1141,6 +1146,12 @@ clear
 computers
 col
 composite
+collective
+commands
+coll
+catch
+coercive
+collaboration
 process
 presence
 point
@@ -1380,6 +1391,12 @@ perfect
 pad
 programming
 positives
+promote
+pure
+print
+program
+pause
+prisoners
 for
 following
 from
@@ -1562,6 +1579,10 @@ fight
 fights
 fighting
 fall
+fin
+files
+failure
+failures
 generating
 generated
 get
@@ -1792,6 +1813,7 @@ UBa
 Undirected
 Understanding
 Universal
+Utilitarian
 states
 shift
 sum
@@ -2124,6 +2146,11 @@ signals
 subtract
 stop
 signed
+stack
+stag
+someone
+spontaneous
+sic
 nothing
 null
 number
@@ -2258,6 +2285,8 @@ neither
 numbe
 numeral
 naturals
+nobody
+negatively
 interesting
 is
 independent
@@ -2477,6 +2506,10 @@ irrational
 inductive
 incumbency
 incorrect
+interest
+improvement
+improvements
+inconsistency
 happening
 hypothesis
 has
@@ -2613,6 +2646,9 @@ harmed
 hex
 human
 hardware
+hunt
+hunting
+hare
 business
 being
 by
@@ -2780,6 +2816,9 @@ bBest
 bits
 byte
 binary
+brium
+breakpoint
+backtrace
 as
 assertion
 are
@@ -3004,6 +3043,10 @@ action
 actually
 abstraction
 advance
+amounts
+arg
+active
+authority
 usual
 using
 use
@@ -3131,6 +3174,8 @@ utility
 unilateral
 unreasonable
 unsigned
+undermine
+utilitarian
 Alternative
 Algorithm
 AH
@@ -3258,6 +3303,7 @@ Add
 Adders
 Advantage
 Aspect
+Action
 The
 There
 Two
@@ -3574,6 +3620,7 @@ mistakes
 meaningful
 minds
 mappings
+maximization
 Independence
 In
 IHDR
@@ -3915,6 +3962,10 @@ endowed
 engender
 elaborate
 edged
+exception
+execution
+everybody
+efficiency
 response
 residual
 regression
@@ -4139,6 +4190,9 @@ rationally
 reached
 rarely
 retained
+run
+receiving
+removes
 variable
 value
 variables
@@ -4406,6 +4460,11 @@ Player
 Pigeonhole
 Pre
 PARABLES
+Pareto
+Payoff
+Prints
+Print
+Prisoner
 Compares
 Cf
 Cu
@@ -4559,6 +4618,11 @@ Cases
 Choice
 Convert
 Complement
+Collective
+Conversely
+Controversially
+Command
+Continues
 Kristen
 KM
 KN
@@ -4755,6 +4819,7 @@ Graph
 Graphs
 Game
 Gauss
+GDB
 was
 ways
 which
@@ -4895,6 +4960,7 @@ web
 weight
 weigh
 weak
+worse
 For
 Fk
 Fo
@@ -5009,6 +5075,7 @@ Fundamental
 Floor
 FTA
 Flip
+Failure
 line
 linear
 learning
@@ -5157,6 +5224,7 @@ lookup
 load
 lub
 loads
+loses
 Why
 We
 Where
@@ -5357,6 +5425,8 @@ Represented
 Representations
 Represent
 RISC
+Runs
+Relatedly
 Descent
 Dn
 Dd
@@ -5484,6 +5554,7 @@ Dominant
 Disclaimer
 Decimal
 Drop
+Description
 Mead
 MO
 MGoj
@@ -5626,6 +5697,7 @@ MOVE
 Multiplicative
 MEDIUM
 Mexico
+Mixed
 SSR
 Since
 SÜ
@@ -5781,6 +5853,9 @@ Summation
 Start
 Shortcomings
 Sign
+Syntax
+Shortcut
+Stag
 Before
 Because
 BG
@@ -5899,6 +5974,9 @@ Bits
 Below
 Binary
 Biases
+Begin
+Breakpoints
+Breaks
 Of
 OQ
 OL
@@ -6016,6 +6094,7 @@ Obviously
 Optional
 Our
 Overflow
+Outcome
 your
 you
 yA
@@ -6390,6 +6469,7 @@ quickly
 quotient
 quantifier
 quotients
+quit
 VTw
 VD
 Vz
@@ -6924,6 +7004,8 @@ Qla
 QZsf
 Qä
 Quantifier
+Quits
+Quit
 JL
 Jp
 JuD
@@ -7204,6 +7286,7 @@ Loop
 Logically
 Laws
 Leftmost
+Line
 EN
 EY
 ET
@@ -7330,3 +7413,5 @@ Electing
 Equilibrium
 Exhaustion
 EASY
+Efficiency
+Expected
