@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "a5b5fbd09815cd43",
+    "type": "split",
+    "children": [
+      {
+        "id": "727cfed856f5e9ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4446a172ad538781",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Mathematics/7. [B] Complex Numbers"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "363793eac674b5b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f17628bf666862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6aa7db42e004c29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27823d3f9b19c971",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ede757daff1c153c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "right": {
+    "id": "5044e110a64f86a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed325b7c1122bd0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4398410083dea4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e272db8ef780671a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c075be1707f4549",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c59d040c78a6f968",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "133d6da5bf95f4a0",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "4446a172ad538781",
+  "lastOpenFiles": [
+    "Mathematics/6. Discrete Mathematics/9. [B] Automata Theory/Finite State Machines.md",
+    "Computer Science/7. Computer Architecture/5. Digital Circuit Design/5.1 Combinational Logic/5.1a Full Adder.md",
+    "Computer Science/7. Computer Architecture/5. Digital Circuit Design/5.1 Combinational Logic/Untitled.md",
+    "Mathematics/6. Discrete Mathematics/4. Modular Arithmetic/4.5 Proving FTA.md",
+    "Mathematics/6. Discrete Mathematics/4. Modular Arithmetic/4.6 Fermat's Little Theorem.md",
+    "Mathematics/6. Discrete Mathematics/4. Modular Arithmetic/4.8 Public Key Cryptography.md",
+    "Mathematics/6. Discrete Mathematics/4. Modular Arithmetic/4.7 Chinese Remainder Theorem.md",
+    "Computer Science/7. Computer Architecture/5. Digital Circuit Design/5.2 Sequential Logic/5.2 Sequential Logic.md",
+    "Computer Science/7. Computer Architecture/5. Digital Circuit Design/5.2 Sequential Logic",
+    "Computer Science/7. Computer Architecture/5. Digital Circuit Design/5.1 Combinational Logic/5.1 Combinational Logic.md",
+    "Computer Science/7. Computer Architecture/5. Digital Circuit Design/5.1 Combinational Logic",
+    "Computer Science/7. Computer Architecture/3. RISC-V/2.1 Instructions/2.1a Arithmetic Operations.md",
+    "Computer Science/7. Computer Architecture/3. RISC-V/2.1 Instructions/2.1b Conditional Operations.md",
+    "Computer Science/7. Computer Architecture/3. RISC-V/2.3 Calling Convention.md",
+    "Computer Science/7. Computer Architecture/3. RISC-V/2.2 Directives.md",
+    "Computer Science/7. Computer Architecture/5. Digital Circuit Design/5. Digital Circuit Design.md",
+    "Computer Science/7. Computer Architecture/5. Digital Circuit Design",
+    "Computer Science/7. Computer Architecture/2. Computer Memory/2. Computer Memory.md",
+    "Computer Science/7. Computer Architecture/2. Computer Memory",
+    "Mathematics/6. Discrete Mathematics/4. Modular Arithmetic/4.4 Modular Inverse/4.4b Computing Inverses.md",
+    "Mathematics/6. Discrete Mathematics/4. Modular Arithmetic/4.4 Modular Inverse/4.4a Modular Inverse.md",
+    "Mathematics/6. Discrete Mathematics/9. [B] Automata Theory/9. [B] Automata Theory.md",
+    "Mathematics/6. Discrete Mathematics/9. [B] Automata Theory",
+    "Mathematics/6. Discrete Mathematics/1. Boolean Algebra/1.2 Logic Gates/1.2 Logic Gates.md",
+    "Mathematics/6. Discrete Mathematics/1. Boolean Algebra/1.2 Logic Gates",
+    "Mathematics/6. Discrete Mathematics/1. Boolean Algebra/1.1 Laws of Boolean Algebra/1.1 Laws of Boolean Algebra.md",
+    "Mathematics/6. Discrete Mathematics/1. Boolean Algebra/1.1 Laws of Boolean Algebra",
+    "Mathematics/6. Discrete Mathematics/2. Proofs/2.1 Direct Proof.md",
+    "Mathematics/6. Discrete Mathematics/1. Logic/1.1 Logical Propositions.md",
+    "Mathematics/6. Discrete Mathematics/1. Logic/1.3 Implication.md",
+    "Mathematics/6. Discrete Mathematics/1. Logic/1.2 Quantifiers.md",
+    "Mathematics/6. Discrete Mathematics/6. Counting/6.4 Binomial Theorem.md",
+    "Mathematics/6. Discrete Mathematics/1. Boolean Algebra/1. Boolean Algebra.md",
+    "Mathematics/6. Discrete Mathematics/1. Boolean Algebra",
+    "Computer Science/7. Computer Architecture/3. SDK/3.2 Assembler",
+    "Computer Science/7. Computer Architecture/4. SDK",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "vLLM Documentation.canvas",
+    "attachments/Continuous-Time Internal Stability.png",
+    "attachments/Internal Discrete-Time Stability.png",
+    "Internal Discrete-Time Stability.png",
+    "Internal Discrete-Time Stability 1.png",
+    "STAT 20/Pasted image 20231120074516.png",
+    "STAT 20/Screenshot 2023-11-20 at 7.35.35.png"
+  ]
+}
